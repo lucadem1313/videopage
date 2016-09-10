@@ -1,5 +1,11 @@
 # videopage
 
+Current credentials
+
+User: test
+
+Password: test
+
 .htpasswd is in the format
 
 ```
